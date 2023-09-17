@@ -1,0 +1,127 @@
+---
+object: card
+id: ce5b6d19-22e3-4f57-8f4d-a17e982286c7
+oracle_id: 7735eeba-693b-47e2-bd51-414379cf1016
+multiverse_ids:
+- 221533
+mtgo_id: 39884
+mtgo_foil_id: 39885
+tcgplayer_id: 39491
+cardmarket_id: 245929
+name: Beast Within
+lang: en
+released_at: '2011-05-13'
+uri: https://api.scryfall.com/cards/ce5b6d19-22e3-4f57-8f4d-a17e982286c7
+scryfall_uri: https://scryfall.com/card/nph/103/beast-within?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/e/ce5b6d19-22e3-4f57-8f4d-a17e982286c7.jpg?1562881648
+  normal: https://cards.scryfall.io/normal/front/c/e/ce5b6d19-22e3-4f57-8f4d-a17e982286c7.jpg?1562881648
+  large: https://cards.scryfall.io/large/front/c/e/ce5b6d19-22e3-4f57-8f4d-a17e982286c7.jpg?1562881648
+  png: https://cards.scryfall.io/png/front/c/e/ce5b6d19-22e3-4f57-8f4d-a17e982286c7.png?1562881648
+  art_crop: https://cards.scryfall.io/art_crop/front/c/e/ce5b6d19-22e3-4f57-8f4d-a17e982286c7.jpg?1562881648
+  border_crop: https://cards.scryfall.io/border_crop/front/c/e/ce5b6d19-22e3-4f57-8f4d-a17e982286c7.jpg?1562881648
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Destroy target permanent. Its controller creates a 3/3 green Beast creature
+  token.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: 7b226475-c85c-4b78-9d6a-70cc9545bc31
+  component: token
+  name: Beast
+  type_line: Token Creature — Beast
+  uri: https://api.scryfall.com/cards/7b226475-c85c-4b78-9d6a-70cc9545bc31
+- object: related_card
+  id: ce5b6d19-22e3-4f57-8f4d-a17e982286c7
+  component: combo_piece
+  name: Beast Within
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/ce5b6d19-22e3-4f57-8f4d-a17e982286c7
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set: nph
+set_name: New Phyrexia
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Anph&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/nph?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ce5b6d19-22e3-4f57-8f4d-a17e982286c7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7735eeba-693b-47e2-bd51-414379cf1016&unique=prints
+collector_number: '103'
+digital: false
+rarity: uncommon
+watermark: phyrexian
+flavor_text: |-
+  "Kill the weak so they can't drag the strong down to their level. This is true compassion."
+  —Benzir, archdruid of Temple Might
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dave Allsop
+artist_ids:
+- 99b8310a-4fd6-4ded-8ab7-3b5185821cbe
+illustration_id: be17f80a-6bf5-4e5a-aec0-0a997adcb37e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19
+prices:
+  usd: '1.71'
+  usd_foil: '20.69'
+  usd_etched: 
+  eur: '1.11'
+  eur_foil: '14.55'
+  tix: '0.45'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=221533
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Beast+Within&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Beast+Within&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Beast+Within
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/39491?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Beast+Within&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/39884?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,113 @@
+---
+object: card
+id: a64073f2-99f5-4dc7-9403-e7cb94ce0e60
+oracle_id: 9a1fbe72-4a17-42be-8e23-d7d30a5e59c1
+multiverse_ids:
+- 233050
+mtgo_id: 39964
+mtgo_foil_id: 39965
+tcgplayer_id: 39420
+cardmarket_id: 245853
+name: Norn's Annex
+lang: en
+released_at: '2011-05-13'
+uri: https://api.scryfall.com/cards/a64073f2-99f5-4dc7-9403-e7cb94ce0e60
+scryfall_uri: https://scryfall.com/card/nph/17/norns-annex?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/6/a64073f2-99f5-4dc7-9403-e7cb94ce0e60.jpg?1562880453
+  normal: https://cards.scryfall.io/normal/front/a/6/a64073f2-99f5-4dc7-9403-e7cb94ce0e60.jpg?1562880453
+  large: https://cards.scryfall.io/large/front/a/6/a64073f2-99f5-4dc7-9403-e7cb94ce0e60.jpg?1562880453
+  png: https://cards.scryfall.io/png/front/a/6/a64073f2-99f5-4dc7-9403-e7cb94ce0e60.png?1562880453
+  art_crop: https://cards.scryfall.io/art_crop/front/a/6/a64073f2-99f5-4dc7-9403-e7cb94ce0e60.jpg?1562880453
+  border_crop: https://cards.scryfall.io/border_crop/front/a/6/a64073f2-99f5-4dc7-9403-e7cb94ce0e60.jpg?1562880453
+mana_cost: "{3}{W/P}{W/P}"
+cmc: 5.0
+type_line: Artifact
+oracle_text: |-
+  ({W/P} can be paid with either {W} or 2 life.)
+  Creatures can't attack you or planeswalkers you control unless their controller pays {W/P} for each of those creatures.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set: nph
+set_name: New Phyrexia
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Anph&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/nph?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a64073f2-99f5-4dc7-9403-e7cb94ce0e60/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9a1fbe72-4a17-42be-8e23-d7d30a5e59c1&unique=prints
+collector_number: '17'
+digital: false
+rarity: rare
+watermark: phyrexian
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: James Paick
+artist_ids:
+- 1a7be0a2-d8ac-45c7-b0a0-eb0886f47b5f
+illustration_id: 9523488f-99ea-4d75-bdca-8b1330bd11e1
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1745
+penny_rank: 9724
+prices:
+  usd: '1.85'
+  usd_foil: '14.92'
+  usd_etched: 
+  eur: '2.44'
+  eur_foil: '4.50'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233050
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Norn%27s+Annex&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Norn%27s+Annex&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Norn%27s+Annex
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/39420?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Norn%27s+Annex&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/39964?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

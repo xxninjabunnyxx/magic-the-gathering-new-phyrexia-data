@@ -1,0 +1,116 @@
+---
+object: card
+id: a300a645-aec6-4cda-8c11-1e8a6af056ff
+oracle_id: 251cee41-30f5-4bba-93cd-31493a5ea051
+multiverse_ids:
+- 214374
+mtgo_id: 39732
+mtgo_foil_id: 39733
+tcgplayer_id: 39573
+cardmarket_id: 245901
+name: Reaper of Sheoldred
+lang: en
+released_at: '2011-05-13'
+uri: https://api.scryfall.com/cards/a300a645-aec6-4cda-8c11-1e8a6af056ff
+scryfall_uri: https://scryfall.com/card/nph/72/reaper-of-sheoldred?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/3/a300a645-aec6-4cda-8c11-1e8a6af056ff.jpg?1562880361
+  normal: https://cards.scryfall.io/normal/front/a/3/a300a645-aec6-4cda-8c11-1e8a6af056ff.jpg?1562880361
+  large: https://cards.scryfall.io/large/front/a/3/a300a645-aec6-4cda-8c11-1e8a6af056ff.jpg?1562880361
+  png: https://cards.scryfall.io/png/front/a/3/a300a645-aec6-4cda-8c11-1e8a6af056ff.png?1562880361
+  art_crop: https://cards.scryfall.io/art_crop/front/a/3/a300a645-aec6-4cda-8c11-1e8a6af056ff.jpg?1562880361
+  border_crop: https://cards.scryfall.io/border_crop/front/a/3/a300a645-aec6-4cda-8c11-1e8a6af056ff.jpg?1562880361
+mana_cost: "{4}{B}"
+cmc: 5.0
+type_line: Creature — Phyrexian Horror
+oracle_text: |-
+  Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+  Whenever a source deals damage to Reaper of Sheoldred, that source's controller gets a poison counter.
+power: '2'
+toughness: '5'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Infect
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set: nph
+set_name: New Phyrexia
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Anph&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/nph?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a300a645-aec6-4cda-8c11-1e8a6af056ff/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A251cee41-30f5-4bba-93cd-31493a5ea051&unique=prints
+collector_number: '72'
+digital: false
+rarity: uncommon
+watermark: phyrexian
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Stephan Martiniere
+artist_ids:
+- '018799f5-76d7-4849-9375-f1b9030977e6'
+illustration_id: 53a3e554-0401-42c1-80da-1d7a4707802a
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 6721
+penny_rank: 8315
+prices:
+  usd: '0.26'
+  usd_foil: '13.11'
+  usd_etched: 
+  eur: '0.89'
+  eur_foil: '4.04'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214374
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Reaper+of+Sheoldred&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Reaper+of+Sheoldred&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Reaper+of+Sheoldred
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/39573?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reaper+of+Sheoldred&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/39732?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

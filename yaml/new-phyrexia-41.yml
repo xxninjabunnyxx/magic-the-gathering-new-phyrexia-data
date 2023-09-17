@@ -1,0 +1,116 @@
+---
+object: card
+id: 376e9829-23eb-4b43-9ec7-246cb3156e95
+oracle_id: ec9c35f2-6a68-45e7-a86e-9f5af9fe28fc
+multiverse_ids:
+- 214384
+mtgo_id: 39750
+mtgo_foil_id: 39751
+tcgplayer_id: 39563
+cardmarket_id: 245873
+name: Phyrexian Ingester
+lang: en
+released_at: '2011-05-13'
+uri: https://api.scryfall.com/cards/376e9829-23eb-4b43-9ec7-246cb3156e95
+scryfall_uri: https://scryfall.com/card/nph/41/phyrexian-ingester?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/7/376e9829-23eb-4b43-9ec7-246cb3156e95.jpg?1562876645
+  normal: https://cards.scryfall.io/normal/front/3/7/376e9829-23eb-4b43-9ec7-246cb3156e95.jpg?1562876645
+  large: https://cards.scryfall.io/large/front/3/7/376e9829-23eb-4b43-9ec7-246cb3156e95.jpg?1562876645
+  png: https://cards.scryfall.io/png/front/3/7/376e9829-23eb-4b43-9ec7-246cb3156e95.png?1562876645
+  art_crop: https://cards.scryfall.io/art_crop/front/3/7/376e9829-23eb-4b43-9ec7-246cb3156e95.jpg?1562876645
+  border_crop: https://cards.scryfall.io/border_crop/front/3/7/376e9829-23eb-4b43-9ec7-246cb3156e95.jpg?1562876645
+mana_cost: "{6}{U}"
+cmc: 7.0
+type_line: Creature — Phyrexian Beast
+oracle_text: |-
+  Imprint — When Phyrexian Ingester enters the battlefield, you may exile target nontoken creature.
+  Phyrexian Ingester gets +X/+Y, where X is the exiled creature card's power and Y is its toughness.
+power: '3'
+toughness: '3'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Imprint
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set: nph
+set_name: New Phyrexia
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Anph&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/nph?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/376e9829-23eb-4b43-9ec7-246cb3156e95/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aec9c35f2-6a68-45e7-a86e-9f5af9fe28fc&unique=prints
+collector_number: '41'
+digital: false
+rarity: rare
+watermark: phyrexian
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Chris Rahn
+artist_ids:
+- 7742047e-0f80-4c0f-a530-d07460165e86
+illustration_id: 3ad1e960-d88d-4598-9ac3-dc07f89666fc
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7058
+penny_rank: 7113
+prices:
+  usd: '0.25'
+  usd_foil: '0.36'
+  usd_etched: 
+  eur: '0.18'
+  eur_foil: '0.39'
+  tix: '0.01'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214384
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Phyrexian+Ingester&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Phyrexian+Ingester&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Phyrexian+Ingester
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/39563?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Phyrexian+Ingester&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/39750?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,119 @@
+---
+object: card
+id: d89b312b-cc90-4f08-ae2e-043a79e51156
+oracle_id: 3b1647d1-9aec-454f-a215-e28633cb7a2d
+multiverse_ids:
+- 233047
+mtgo_id: 39960
+mtgo_foil_id: 39961
+tcgplayer_id: 39600
+cardmarket_id: 245880
+name: Viral Drake
+lang: en
+released_at: '2011-05-13'
+uri: https://api.scryfall.com/cards/d89b312b-cc90-4f08-ae2e-043a79e51156
+scryfall_uri: https://scryfall.com/card/nph/49/viral-drake?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/8/d89b312b-cc90-4f08-ae2e-043a79e51156.jpg?1562881929
+  normal: https://cards.scryfall.io/normal/front/d/8/d89b312b-cc90-4f08-ae2e-043a79e51156.jpg?1562881929
+  large: https://cards.scryfall.io/large/front/d/8/d89b312b-cc90-4f08-ae2e-043a79e51156.jpg?1562881929
+  png: https://cards.scryfall.io/png/front/d/8/d89b312b-cc90-4f08-ae2e-043a79e51156.png?1562881929
+  art_crop: https://cards.scryfall.io/art_crop/front/d/8/d89b312b-cc90-4f08-ae2e-043a79e51156.jpg?1562881929
+  border_crop: https://cards.scryfall.io/border_crop/front/d/8/d89b312b-cc90-4f08-ae2e-043a79e51156.jpg?1562881929
+mana_cost: "{3}{U}"
+cmc: 4.0
+type_line: Creature — Phyrexian Drake
+oracle_text: |-
+  Flying
+  Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+  {3}{U}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)
+power: '1'
+toughness: '4'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+- Proliferate
+- Infect
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set: nph
+set_name: New Phyrexia
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Anph&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/nph?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d89b312b-cc90-4f08-ae2e-043a79e51156/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3b1647d1-9aec-454f-a215-e28633cb7a2d&unique=prints
+collector_number: '49'
+digital: false
+rarity: uncommon
+watermark: phyrexian
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Lars Grant-West
+artist_ids:
+- 21ed6499-c4d3-4965-ab02-6c7228275bec
+illustration_id: a3d0f187-7714-4ac4-9b90-af6305212513
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3452
+penny_rank: 8417
+prices:
+  usd: '2.16'
+  usd_foil: '18.43'
+  usd_etched: 
+  eur: '1.35'
+  eur_foil: '5.99'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233047
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Viral+Drake&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Viral+Drake&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Viral+Drake
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/39600?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Viral+Drake&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/39960?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

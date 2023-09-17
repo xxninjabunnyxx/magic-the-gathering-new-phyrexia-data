@@ -1,0 +1,118 @@
+---
+object: card
+id: b66390d6-1649-4bfa-92d3-77664650d552
+oracle_id: 958d71ff-c9f7-46f0-96ca-79e7f4d65a16
+multiverse_ids:
+- 214352
+mtgo_id: 39712
+mtgo_foil_id: 39713
+tcgplayer_id: 39414
+cardmarket_id: 245810
+name: Elesh Norn, Grand Cenobite
+lang: en
+released_at: '2011-05-13'
+uri: https://api.scryfall.com/cards/b66390d6-1649-4bfa-92d3-77664650d552
+scryfall_uri: https://scryfall.com/card/nph/9/elesh-norn-grand-cenobite?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/6/b66390d6-1649-4bfa-92d3-77664650d552.jpg?1562880933
+  normal: https://cards.scryfall.io/normal/front/b/6/b66390d6-1649-4bfa-92d3-77664650d552.jpg?1562880933
+  large: https://cards.scryfall.io/large/front/b/6/b66390d6-1649-4bfa-92d3-77664650d552.jpg?1562880933
+  png: https://cards.scryfall.io/png/front/b/6/b66390d6-1649-4bfa-92d3-77664650d552.png?1562880933
+  art_crop: https://cards.scryfall.io/art_crop/front/b/6/b66390d6-1649-4bfa-92d3-77664650d552.jpg?1562880933
+  border_crop: https://cards.scryfall.io/border_crop/front/b/6/b66390d6-1649-4bfa-92d3-77664650d552.jpg?1562880933
+mana_cost: "{5}{W}{W}"
+cmc: 7.0
+type_line: Legendary Creature — Phyrexian Praetor
+oracle_text: |-
+  Vigilance
+  Other creatures you control get +2/+2.
+  Creatures your opponents control get -2/-2.
+power: '4'
+toughness: '7'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Vigilance
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set: nph
+set_name: New Phyrexia
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Anph&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/nph?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b66390d6-1649-4bfa-92d3-77664650d552/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A958d71ff-c9f7-46f0-96ca-79e7f4d65a16&unique=prints
+collector_number: '9'
+digital: false
+rarity: mythic
+watermark: phyrexian
+flavor_text: '"The Gitaxians whisper among themselves of other worlds. If they exist,
+  we must bring Phyrexia''s magnificence to them."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Igor Kieryluk
+artist_ids:
+- 9c3e9d17-509f-485c-9360-46d897ce716b
+illustration_id: 7618066e-d3fe-4ee5-aeea-f4e73a256ec0
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 379
+prices:
+  usd: '22.53'
+  usd_foil: '116.90'
+  usd_etched: 
+  eur: '27.50'
+  eur_foil: '49.90'
+  tix: '0.16'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214352
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Elesh+Norn%2C+Grand+Cenobite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Elesh+Norn%2C+Grand+Cenobite&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Elesh+Norn%2C+Grand+Cenobite
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/39414?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elesh+Norn%2C+Grand+Cenobite&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/39712?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

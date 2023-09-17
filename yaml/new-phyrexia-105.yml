@@ -1,0 +1,116 @@
+---
+object: card
+id: 9ddfa4ed-70fb-4e25-875d-df0f973f7294
+oracle_id: bdec14d1-1b38-4223-869e-a0ffc76b2b0c
+multiverse_ids:
+- 217998
+mtgo_id: 39786
+mtgo_foil_id: 39787
+tcgplayer_id: 39496
+cardmarket_id: 245931
+name: Brutalizer Exarch
+lang: en
+released_at: '2011-05-13'
+uri: https://api.scryfall.com/cards/9ddfa4ed-70fb-4e25-875d-df0f973f7294
+scryfall_uri: https://scryfall.com/card/nph/105/brutalizer-exarch?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/d/9ddfa4ed-70fb-4e25-875d-df0f973f7294.jpg?1562880206
+  normal: https://cards.scryfall.io/normal/front/9/d/9ddfa4ed-70fb-4e25-875d-df0f973f7294.jpg?1562880206
+  large: https://cards.scryfall.io/large/front/9/d/9ddfa4ed-70fb-4e25-875d-df0f973f7294.jpg?1562880206
+  png: https://cards.scryfall.io/png/front/9/d/9ddfa4ed-70fb-4e25-875d-df0f973f7294.png?1562880206
+  art_crop: https://cards.scryfall.io/art_crop/front/9/d/9ddfa4ed-70fb-4e25-875d-df0f973f7294.jpg?1562880206
+  border_crop: https://cards.scryfall.io/border_crop/front/9/d/9ddfa4ed-70fb-4e25-875d-df0f973f7294.jpg?1562880206
+mana_cost: "{5}{G}"
+cmc: 6.0
+type_line: Creature — Phyrexian Cleric
+oracle_text: |-
+  When Brutalizer Exarch enters the battlefield, choose one —
+  • Search your library for a creature card, reveal it, then shuffle and put that card on top.
+  • Put target noncreature permanent on the bottom of its owner's library.
+power: '3'
+toughness: '3'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set: nph
+set_name: New Phyrexia
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/e8e356d8-6d01-4dab-aa07-d0999dc9359f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Anph&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/nph?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9ddfa4ed-70fb-4e25-875d-df0f973f7294/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abdec14d1-1b38-4223-869e-a0ffc76b2b0c&unique=prints
+collector_number: '105'
+digital: false
+rarity: uncommon
+watermark: phyrexian
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Zug
+artist_ids:
+- 48e2b98c-5467-4671-bd42-4c3746115117
+illustration_id: 3f5bed9b-e7b5-4f13-b2d4-cedbb704a2e5
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7478
+penny_rank: 4302
+prices:
+  usd: '0.13'
+  usd_foil: '2.33'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '0.99'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=217998
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Brutalizer+Exarch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Brutalizer+Exarch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Brutalizer+Exarch
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/39496?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Brutalizer+Exarch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/39786?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
